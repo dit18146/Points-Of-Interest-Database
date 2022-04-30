@@ -1,0 +1,78 @@
+body {  background-color: rgb(255, 255, 255); 
+        font-family: tahoma,tahoma; 
+        font-size: 11pt;  
+        width: 600pt;
+        margin: auto;
+        text: #000000; }
+:link       { color: #289996; background: transparent }
+:visited    { color: #609; background: transparent }
+
+td {    align: left}
+
+table { border: 0;
+        cellspacing: 2;
+        cellpadding: 5;
+        width: 580pt;}
+/*
+A:hover{color: red; background-color: #ffff99; } 
+*/
+.content {
+       
+} 
+
+#navbar a {
+        float: left;
+        display: block;
+        color: #000000;
+        text-align: center;
+        padding: 5px 62px;
+        text-decoration: none;
+        border-style: solid;
+      
+      }
+
+h1, h2, h3 {    text-align: left;
+                width: 580pt;
+                padding: 0.5em; 
+                border: none; 
+                margin: 1pt 0; }
+
+h1 {    font: 140% tahoma;
+        width: 580pt;     
+        background: black;
+        color: white; }
+
+h2 {    font: 110% tahoma; 
+        background: #066A6E;
+        color: #FFFFFF;}
+
+h3 {    font: 100% tahoma; 
+        background: #E1E1E1;
+        color: black; }
+        
+p {     margin-left: 0.3em; }
+
+ul {    margin-top: 0.3em; 
+        margin-bottom: 0.3em;
+        /*margin-left: -0.5em; */}
+
+/*
+
+*/
+
+/*
+font.one {
+    margin-bottom: 10em;
+    margin-left: 0.6em;
+    font-size: 150%;
+    color: white;
+}
+
+td.one {
+    margin-top: 10em;
+    align: left;
+    colspan: 3;
+    background: black;
+}
+
+*/
